@@ -1,0 +1,1 @@
+scriptCTF is a 48-hour jeopardy style CTF for hackers to test their skills against creative and innovative CTF challenges. We have mostly beginner friendly challenges, with a few hard ones. scriptCTF makes CTFs fun and approachable for all skill levels! This is hosted by ScriptSorcerers and some members of n00bzUnit3d (as a replacement of n00bzCTF).
